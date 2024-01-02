@@ -9,7 +9,7 @@
  * @next: Points to the next node
  *
  * Description: Singly linked list node structure
- * for python project
+ *
  */
 typedef struct listint_s
 {
